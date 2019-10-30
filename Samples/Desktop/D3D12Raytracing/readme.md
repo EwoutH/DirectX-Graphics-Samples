@@ -1,4 +1,4 @@
-# D3D12 Raytracing Samples
+# D3D12 Raytracing Samples [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/microsoft/DirectX-Graphics-Samples?branch=master&svg=true)](https://ci.appveyor.com/project/microsoft/DirectX-Graphics-Samples)
 This collection of samples act as an introduction to DirectX Raytracing (DXR). The samples are divided into tutorials and advanced samples. Each tutorial sample introduces a few new DXR concepts. Advanced samples demonstrate more complex techniques and applications of raytracing.
 
 ### Getting Started
